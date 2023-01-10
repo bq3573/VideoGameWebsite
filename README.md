@@ -1,6 +1,10 @@
 # Video Game Website
 # ASP.NET Web Application
 
+## Current Development Stage
+
+This is very much still a work in progress and am in the beginning stages of this web application.
+
 ## Objective
 
 This is my first atempt at building a fullstack ASP.NET Web Application and will be experiementing/learning the entire process
